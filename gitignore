@@ -1,0 +1,6 @@
+# Ignore the generated Newman report
+newman_report.json
+
+# Ignore temporary files created by Python
+__pycache__/
+*.pyc
